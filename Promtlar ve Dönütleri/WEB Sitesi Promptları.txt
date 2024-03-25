@@ -1,0 +1,50 @@
+PROMTLAR
+
+Ben daha önce web sitesi tasarımı ve yazılımıyla hiç uğraşmamış biriyim.
+Benden bir web sitesi tasarlamamı istediler.
+Bu bir galeri sitesi olacak.Örneğin pinterest uygulaması gibi farklı alanlarda içerikler olmasını istiyorum(giyim, dövme, arabalar ve motorlar, spor ).
+Site temiz, düzenli ve kullanıcı dostu bir tasarıma sahip olmalı. Renkler, fontlar ve görselleri insanların ilgisini çekebilmesi gerekiyor.. Dikkat dağıtıcı veya karmaşık tasarımlardan kaçınmalıyım.
+Web sitesine bilgisayar, tablet, cep telefonu gibi farklı cihazlarda sorunsuz bir şekilde görüntülenmelidir.Web sitesi bütün cihazlarda tam sayfa olmalıdır.
+Web sitesini yaparken HTML,CSS ve Javascript kodlarını kullanılmalı.
+Semantik etiketlerin(header, main, nav, section, article, aside, footer) kullanılması beklenmektedir.
+
+Web sitesini oluştururken  giyip tarzları, spor, arabalar ve motorsikletler, dövmeler ve filmler olmak üzere 5 farklı bölüm konusu oluşturacaksın.
+Ana ekranda  her bir konu için bir bölme olacak.
+Bu bölmelerde pinterestteki gibi kapak foroğrafının olduğu bir görsel ve bu kapak fotoğrafının altında o bölümün adı olacak.
+Örneğin ekranda bir bölümünde bir spor fotoğrafı ve fotoğrafın hemen aldında spor yazacak.Ve bu kapak fotoğrafına tıklandığında spor bölümüne girip yapılmış olacak.
+Bu konuya tıklayıp içine girdiğimizde içerisinde o konuyla alakalı başka görseller çıkacak.
+Bu görsellere tıklandığında bilgisayarda açtığımız fotoğraflar uygulamasında göründüğü gibi tam ekran görünmeli.Esc tuşuna basıldığında tam ekran modundan çıkmalı.
+Görselin alt kısmında ise önceki iki fotoğrafın, açık olan fotoğrafın ve sonraki 2 fotoğrafın küçük önizlemeleri olmalı.
+Aynı konu içindeki görseller arasında mobil cihazlarda kaydırarak ve ya ekrana koyulan ok tuşları sayesinde, masaüstü cihazlarda ise yön tuşlarıyla ya da yine ekrana koyulacak ok tuşları sayesinde geçiş yapılabilecek.
+Girdiğimiz konu başlığından çıkıp ana sayfaya dönebilmem için bir çıkış butonu olmalı.
+Bu sitedeki görselleri ve kapak fotoğraflarını site içerisinden de eklemek istiyorum.Bu siteye sadece ben fotoğraf ekleyebilmeliyim.
+Fotoğraf ekleme işlemi foroğraf sürükle bırak şeklinde ve fotoğraf ekle butonuna tıkladıktan sonra bilgisayarda kayıtlı olduğu bölümden seçilerek kaydedilebilmeli.
+Her bölümde 10 adet fotoğraf eklemek istioyorum.Ben fotoğraf eklemek için sadece klasördeki fotoğrafın adını yazacağım.
+Fotoğrafın adının yazacağım yere /*Fotoğrafın adı yazılacak*/ şeklinde bir alan belirtmeni istiyorum
+
+Oluşturduğun bütün dosyaları senin birleştirmeni istiyorum. 
+Ben sadece senin bana verdiğin kodları senin tarif ettiğin şekilde kullanacağım.
+Oluşturacağın web sitesi kodlarını visual studio code ile kullanacağım.
+Visual studio code kullanımını bilmiyorum.Bir de web sitesine eklenecek görselleri koda nasıl ekleyeceğimi de bilmiyorum
+Html,Css ve java script kodlarını yapıştıracağım sayfalarını nasıl açmam gerektiğini adım adım bir çocuğa anlatır gibi(Bilal'e anlatır gibi :D) anlatmanı istiyorum.
+Dosyayı oluştururken hangi sekmelere tıklayacağım, dosyaya hangi isimleri vereceğim bu dosyaları nasıl birleştireceğimi tek tek açıklamanı istiyorum.
+Şimdi bana yukarıda istedğim kod bloklarını ve diğer istediklerimi ver lütfen.
+
+NOT : CHATGPT 3.5 İLE OLUŞTURULDU.
+
+SPOR GÖRSELLERİN PROMTU
+Spor ile ilgili yaratıcı ve gerçekliğe yakın bir görsel oluştur. ==>LEONARDO.AI İLE OLUŞTURULDU
+
+OTOMOBİL VE MOTORSİLET İLE İLGİLİ GÖRSELLERİN PROMTU
+Pinterest tarzı bir galeri web sitesi yapıyorum ve spor, yaşam tarzı, giyim, spor, otomobiller ve motorsikletler gibi konularda yaratıcı ve gerçekçi fotoğraflara ihtiyacım var.
+Bunları bana tasarlar mısın? ==> LEONARDO.AI İLE OLUŞTURULDU
+
+FİLMLERLE İLE İLGİLİ GÖRSELLERİN PROMTU
+Bana yaratıcı ama bir o kadar da gerçekçi bir film afişi hazırlar mısın? ==>LEONARDO.AI İLE OLUŞTURULDU
+
+DÖVMELERLE İLE İLGİLİ GÖRSELLERİN PROMTU
+Farklı yaratıcı dövmelerin olduğu ve gerçekliğe çok yakın bir dövme albümü kapak fotoğrafı oluştur. ==> DALL-E MİCROSOFT BİNG İLE OLUŞTURULDU
+
+GİYİM TARZI İLE İLGİLİ GÖRSELLERİN PROMTU
+pinterestteki gibi farklı giyim tarzlarını tek bir karede gösteren bir model çizmeni istiyorum. ==> DALL-E MİCROSOFT BİNG İLE OLUŞTURULDU
+
